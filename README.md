@@ -13,4 +13,4 @@ More at:
 In this Github account, you will find:
 - The codebook
 - The backend code
-- Code and resource of our workshop paper which is accepted to appear at DELITE, co-located in COLING/LREC 2024.
+- Code and resource of our workshop paper which is accepted to appear at DELITE, co-located at COLING/LREC 2024.
