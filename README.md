@@ -9,3 +9,8 @@ The plugin was developed by a group of six individuals, comprising editors and t
 More at: 
 - https://www.journalismai.info/festival
 - https://blogs.lse.ac.uk/polis/2023/06/01/meet-the-2023-journalismai-fellowship-cohort/
+
+In this Github account, you will find:
+- The codebook
+- The backend code
+- Code and resource of our workshop paper which is accepted to appear at DELITE, co-located in COLING/LREC 2024.
